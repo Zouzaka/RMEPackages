@@ -24,7 +24,8 @@ module Packages
       'vincent26-multi-currency' => 'https://raw.githubusercontent.com/vincent26/RM/master/Menu/Multi_Monnaie/package.rb',
       'raho-useless' => 'https://raw.githubusercontent.com/hyperaho/RPGMaker/master/useless/package.rb',
       'RME-tone-tester' => 'https://raw.githubusercontent.com/nukiFW/RPGMaker/master/RMEToneTester/package.rb',
-      'event-printer' => 'https://raw.githubusercontent.com/ZangtherRGSS3/Scripts/master/EventPrinter/package.rb'
+      'event-printer' => 'https://raw.githubusercontent.com/ZangtherRGSS3/Scripts/master/EventPrinter/package.rb',
+      'zouzaka-stats-change' => 'https://github.com/Zouzaka/Rpg-Maker/blob/Script-RMVXAce/Pierres-De-Stats/package.rb'
     }
   end
 end
